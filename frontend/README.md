@@ -1,0 +1,2 @@
+backend - npm run develop
+frontend  npm run dev
